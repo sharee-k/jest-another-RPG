@@ -1,0 +1,19 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Create Potion Object\r Create tests for the potion object\r The potion object will be used to give the player stat boosts\r If no stat is provided, the stat should be randomly selected",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharee-k/jest-another-RPG.git"
+  },
+  "author": "Sharee Burkeen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharee-k/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/sharee-k/jest-another-RPG#readme"
+}
