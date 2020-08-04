@@ -52,3 +52,5 @@ checkEndOfBattle()
 startNewBattle()
 
 Consolidate Code
+
+10.1.4 is terribly written and jumps from doing a random test to check if two numbers are equal to writing a test for the potion object. There is no transition just jumps around. There is no continuity and makes it difficult to follow. It made me think that I had missed something in the module, so I wasted time re-reading when I could have just moved on to the next page of the module.
